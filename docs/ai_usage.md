@@ -1,6 +1,6 @@
 # AI Use Log
-- Tool/model & version:
-- What I asked for:
-- Snippet of prompt(s):
-- What I changed before committing:
-- How I verified correctness (tests, sample data):
+- Tool/model & version: Gemini integrated with Gooogle colab (not sure version)
+- What I asked for: I have very little coding background. I am getting better with understanding code (i.e. reading a line and understanding what it is trying to accomplish) but I am still struggling with turning instructions into code (i.e. writing in computer speak). I used AI to help write. 
+- Snippet of prompt(s): "How would I add the count function to this code to print the count next to each word"
+- What I changed before committing: I often used the "explain the code" function, and I then deleted the lines. I also changed some of the names that gemini gave certain files or paths. 
+- How I verified correctness (tests, sample data): Some of the prompts asked to practice with a practice set of data on Rosalind. I couldn't find practice sets, but I did download an actual problem set from rosalind and fiddle around with it to make sure the output looked correct. This is why some of my Rosalind problems will have multiple attempts that I failed for time, I was practicing with the dataset that Rosalind gave and fiddling with my code to get it right, before downloading another data set to submit my answer. That's also why some of the files downloaded from Rosalind have a (1) or (2) next to their name. 
